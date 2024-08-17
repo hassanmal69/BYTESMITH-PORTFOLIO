@@ -34,14 +34,23 @@ const Footer = () => {
         <Box className="column Contact">
           <h2 className="secondaryColor description">Contact Us</h2>
           <ul className="column primaryColor">
-            <li>83, Muslim Colony, National Town, Lahore</li>
+            <li>Sanda Rd National Town, Lahore</li>
             <li>+923353135654, +92308815979, +923207347511</li>
             <li>xyz@gmail.com</li>
-            <li>www.xyz.com</li>
+            <li>hassantahir688@gmail.com</li>
           </ul>
         </Box>
-        
+        <Box className="column Contact">
+          <h2 className="secondaryColor description">Our Socials</h2>
+          <ul className="column primaryColor">
+            <li></li>
+            <li>+923353135654, +92308815979, +923207347511</li>
+            <li>xyz@gmail.com</li>
+            <li>hassantahir688@gmail.com</li>
+          </ul>
+        </Box>
       </Box>
+      
       <Box component="div" className="patent">
         <p>© 2024 ByteSmith.com. All Rights Reserved.</p>
       </Box>
